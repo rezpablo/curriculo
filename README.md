@@ -29,7 +29,7 @@ Pablo Rezende Silva
 **Função**: Analista de Sistemas Sênior
 **Principais atividades**: 
 
-- <p style='text-align: justify;'> Desenvolvimento de microserviços de integrações de sistemas e análise de dados, 
+- <p style='text-align: justify;'> Desenvolvimento de microsserviços de integrações de sistemas e análise de dados, 
                                    utilizando a stack Spring Cloud, Spring Integration, Kafka Streams, Apache Camel, 
                                    MongoDB, SQLServer; </p>
 - <p style='text-align: justify;'> Participação em decisões arquiteturais de serviços de integrações. </p>
@@ -41,7 +41,7 @@ Pablo Rezende Silva
 **Principais atividades**: 
 
 - <p style='text-align: justify;'> Criação de arquitetura, desenvolvimento, manutenção de integrações de Sistemas, APIs,
-                                   mensagerias, utilizando microservices, Spring Integration, Stack Spring Cloud/NetFlix, Docker,
+                                   mensagerias, utilizando microsservices, Spring Integration, Stack Spring Cloud/NetFlix, Docker,
                                    Kubernetes, MongoDB, PostgreSQL, Redis, RabbitMQ, atuando na manutenção do ambiente de
                                    homologação e produção na plataforma Cloud Amazon Web services; </p>
 - <p style='text-align: justify;'> Desenvolvimento de Interface administrativa de integrações com ReactJS, NodeJS, GraphQL,
