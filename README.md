@@ -18,22 +18,22 @@ Pablo Rezende Silva
 
 #### CAEd - Centro de Políticas Públicas e Avaliação da Educação
 **Função**: Arquiteto de Sistemas Sênior
-
 **Principais atividades**: 
-- <p style='text-align: justify;'> Definições de arquitetura e desenvolvimento de microserviços de integrações de sistemas
-                                   e análise de dados; </p>
+
 - <p style='text-align: justify;'> Java Performance Tuning, definições e configurações de serviços de monitoramento; </p>
-- <p style='text-align: justify;'> Automação de processos de CI/CD e gerenciamento de configurações de orquestração de serviços Docker. </p>
+-  <p style='text-align: justify;'> Automação de processos de CI/CD e gerenciamento de configurações de orquestração de serviços Docker. </p>
+
 **Período**: Setembro 2018 até o período atual.
 
 #### CAEd - Centro de Políticas Públicas e Avaliação da Educação
 **Função**: Analista de Sistemas Sênior
-
 **Principais atividades**: 
+
 - <p style='text-align: justify;'> Desenvolvimento de microserviços de integrações de sistemas e análise de dados, 
                                    utilizando a stack Spring Cloud, Spring Integration, Kafka Streams, Apache Camel, 
                                    MongoDB, SQLServer; </p>
 - <p style='text-align: justify;'> Participação em decisões arquiteturais de serviços de integrações. </p>
+
 **Período**: Março 2018 à Agosto 2018
 
 #### AfferoLab
