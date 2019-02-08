@@ -34,8 +34,7 @@ designing, coding and technical leading. </p>
 
 **Software Developer** - `August 2015 - March 2018`
 
-<p style='text-align: justify; margin-left:3%'> Construction of architecture, development, maintenance of system integrations, APIs, messaging using microservives, Spring Integration, Spring Cloud/NetFlix, Zhul, Ribbon, Hystrix, EurekaServer, ConfigServer, Nginx, Docker, Kubernetes, MongoDB, PostgreSQL, Redis, RabbitMQ,  maintaining the homologation and production environment in the cloud platform Amazon Web services;</p>
-<p style='text-align: justify; margin-left:3%'> Migration of system integrations between Apache Camel with JBoss Fuse for microservices  in the Spring Cloud platform </p>
+<p style='text-align: justify; margin-left:3%'> Construction of architecture, development, maintenance of system integrations, APIs, messaging using microservives, Spring Integration, Spring Cloud/NetFlix, Zhul, Ribbon, Hystrix, EurekaServer, ConfigServer, Nginx, Docker, Kubernetes, MongoDB, PostgreSQL, Redis, RabbitMQ,  maintaining the homologation and production environment in the cloud platform Amazon Web services and migration of system integrations between Apache Camel with JBoss Fuse for microservices  in the Spring Cloud platform </p>
 <p style='text-align: justify; margin-left:3%'> Development of administrative interface integrations with ReactJS, Redux, NodeJS, GraphQL, MongoDB; </p>
 <p style='text-align: justify; margin-left:3%'> Performance in the development, migration and maintenance of systems using technologies such as AngularJS, Spring Boot, Spring Integration, Spring Batch, Security, Data, ElasticSearch, JSF, JBoss, Seam, SQL Server, Gradle, APIs, AWS; </p>
 <p style='text-align: justify; margin-left:3%'> Agile Development Practices with Scrum, Kanban and XP; </p>
