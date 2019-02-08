@@ -28,7 +28,6 @@ designing, coding and technical leading. </p>
 **Senior Software Developer** - `March 2018 - August 2018`
 
 <p style='text-align: justify; margin-left:3%'> Development of microservices and servless for system integration, data flows and data analysis using the Spring stack, Spring Cloud, Spring Integration, Kafka Streams, Apache Camel, GoLang, MongoDB, SQLServer, Redis, Elasticsearch, FnProject, building Dockerfiles and management of Docker services orchestration settings;</p>
-<p style='text-align: justify; margin-left:3%'> Participation in architectural decisions of integration services and data flows; </p>
 <p style='text-align: justify; margin-left:3%'> Agile Development Practices with Scrum and Kanban. </p>
 
 #### AfferoLab
