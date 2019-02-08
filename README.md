@@ -22,14 +22,14 @@ designing, coding and technical leading. </p>
 **Software Architect** - `September 2018 - Now`
 
 <p style='text-align: justify; margin-left:3%'> Automation of processes CI/CD, building Dockerfiles and management of Docker services orchestration settings; </p>
-<p style='text-align: justify; margin-left:3%'> Development of microservices for system integration, data flows and data analysis using the Spring stack, Spring Cloud, Spring Integration, Kafka Streams, Apache Camel, GoLang,  MongoDB, SQLServer, Redis, Elasticsearch; </p>
+<p style='text-align: justify; margin-left:3%'> Development of microservices and servless for system integration, data flows and data analysis using the Spring stack, Spring Cloud, Spring Integration, Kafka Streams, Apache Camel, GoLang,  MongoDB, SQLServer, Redis, Elasticsearch and FnProject; </p>
 <p style='text-align: justify; margin-left:3%'>Java Performance Tuning, technical specifications, software modelling and code reviewer</p>
 <p style='text-align: justify; margin-left:3%'> Agile Development Practices with Scrum and Kanban. </p>
 <p style='text-align: justify; margin-left:3%'></p>
 
 **Senior Software Developer** - `March 2018 - August 2018`
 
-<p style='text-align: justify; margin-left:3%'> Development of microservices for system integration, data flows and data analysis using the Spring stack, Spring Cloud, Spring Integration, Kafka Streams, Apache Camel, GoLang,  MongoDB, SQLServer, Redis, Elasticsearch, building Dockerfiles and management of Docker services orchestration settings;</p>
+<p style='text-align: justify; margin-left:3%'> Development of microservices and servless for system integration, data flows and data analysis using the Spring stack, Spring Cloud, Spring Integration, Kafka Streams, Apache Camel, GoLang, MongoDB, SQLServer, Redis, Elasticsearch, FnProject, building Dockerfiles and management of Docker services orchestration settings;</p>
 <p style='text-align: justify; margin-left:3%'> Participation in architectural decisions of integration services and data flows; </p>
 <p style='text-align: justify; margin-left:3%'> Agile Development Practices with Scrum and Kanban. </p>
 <p style='text-align: justify; margin-left:3%'>Code reviewer</p>
