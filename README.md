@@ -19,13 +19,7 @@ designing, coding and technical leading. </p>
 
 #### CAEd/UFJF - Centro de Políticas Públicas e Avaliação da Educação
 
-<table style="width:100%; " cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: none;"><div style='text-align: left; font-weight: bold;
-'>Software Architect</div></td>
-    <td style="border: none;"><div style='text-align: right;'>September 2018 - Now</div></td>
-  </tr>
-</table>
+**Software Architect** - `September 2018 - Now`
 
 <p style='text-align: justify; margin-left:3%'> Automation of processes CI/CD, building Dockerfiles and management of Docker services orchestration settings; </p>
 <p style='text-align: justify; margin-left:3%'> Development of microservices for system integration, data flows and data analysis using the Spring stack, Spring Cloud, Spring Integration, Kafka Streams, Apache Camel, GoLang,  MongoDB, SQLServer, Redis, Elasticsearch; </p>
@@ -33,15 +27,7 @@ designing, coding and technical leading. </p>
 <p style='text-align: justify; margin-left:3%'> Agile Development Practices with Scrum and Kanban. </p>
 <p style='text-align: justify; margin-left:3%'></p>
 
-#### CAEd/UFJF - Centro de Políticas Públicas e Avaliação da Educação
-
-<table style="width:100%; " cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: none;"><div style='text-align: left; font-weight: bold;
-'>Senior Software Developer</div></td>
-    <td style="border: none;"><div style='text-align: right;'>March 2018 - August 2018</div></td>
-  </tr>
-</table>
+**Senior Software Developer** - `March 2018 - August 2018`
 
 <p style='text-align: justify; margin-left:3%'> Development of microservices for system integration, data flows and data analysis using the Spring stack, Spring Cloud, Spring Integration, Kafka Streams, Apache Camel, GoLang,  MongoDB, SQLServer, Redis, Elasticsearch, building Dockerfiles and management of Docker services orchestration settings;</p>
 <p style='text-align: justify; margin-left:3%'> Participation in architectural decisions of integration services and data flows; </p>
@@ -50,13 +36,7 @@ designing, coding and technical leading. </p>
 
 #### AfferoLab
 
-<table style="width:100%; " cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: none;"><div style='text-align: left; font-weight: bold;
-'>Software Developer</div></td>
-    <td style="border: none;"><div style='text-align: right;'>August 2015 - March 2018</div></td>
-  </tr>
-</table>
+**Software Developer** - `August 2015 - March 2018`
 
 <p style='text-align: justify; margin-left:3%'> Construction of architecture, development, maintenance of system integrations, APIs, messaging using microservives, Spring Integration, Spring Cloud/NetFlix, Zhul, Ribbon, Hystrix, EurekaServer, ConfigServer, Nginx, Docker, Kubernetes, MongoDB, PostgreSQL, Redis, RabbitMQ,  maintaining the homologation and production environment in the cloud platform Amazon Web services;</p>
 <p style='text-align: justify; margin-left:3%'> Migration of system integrations between Apache Camel with JBoss Fuse for microservices  in the Spring Cloud platform </p>
@@ -67,14 +47,7 @@ designing, coding and technical leading. </p>
 
 #### Stefanini
 
-<table style="width:100%; " cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: none;"><div style='text-align: left; font-weight: bold;
-'>Software Developer</div></td>
-    <td style="border: none;"><div style='text-align: right;'>September
- 2013 - July 2015</div></td>
-  </tr>
-</table>
+**Software Developer** - `September 2013 - July 2015`
 
 <p style='text-align: justify; margin-left:3%'> Development of system of messaging and integration of systems of the previdencia area using SOAP, WildFly, CDI, HornetQueue, acting in the development and configuration of the homologation and production environment; </p>
 <p style='text-align: justify; margin-left:3%'> Development of systems using technologies such as Jboss Seam, RichFaces, Maven, SpringBoot, AngularJS;  </p>
@@ -82,13 +55,7 @@ designing, coding and technical leading. </p>
 
 #### Exército Brasileiro (Brazilian army) – 4º Grupo de Artilharia de Campanha.
 
-<table style="width:100%; " cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: none;"><div style='text-align: left; font-weight: bold;
-'>3º Sargento (Sergeant) </div></td>
-    <td style="border: none;"><div style='text-align: right;'>March 2006 - February 2014</div></td>
-  </tr>
-</table>
+**3º Sargento (Sergeant)** - `March 2006 - February 2014`
 
 <p style='text-align: justify; margin-left:3%'> Acting in administrative area of ​​personnel management; </p>
 <p style='text-align: justify; margin-left:3%'> Linux system administration, user support, configuration and maintenance of networks, file sharing server and Samba/CUPS configuration and maintenance of de proxy Squid and Firewal IPTables; </p>
@@ -101,15 +68,9 @@ Artillery monitor instructor.</p>
 
 #### Graduation:
 
-<table style="width:100%; " cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: none;"><div style='text-align: left; font-weight: bold;
-'>Bachelor’s degree</div></td>
-    <td style="border: none;"><div style='text-align: right;'>2010 - 2014</div></td>
-  </tr>
-</table>
+**Bachelor’s degree (Completed)** - `2010 - 2014`
 
-<p style='text-align: justify; margin-left:3%'> Centro de Ensino Superior de Juiz de Fora, CESJF (Completed); </p>
+<p style='text-align: justify; margin-left:3%'> Centro de Ensino Superior de Juiz de Fora, CESJF ; </p>
 
 ---
 
