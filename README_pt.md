@@ -26,7 +26,7 @@ Pablo Rezende Silva
 
 **Analista de Sistemas Sênior** - `Março 2018 à Agosto 2018`
 
-- <p style='text-align: justify;'> Desenvolvimento de microsserviços de integrações de sistemas e análise de dados e APIs utilizando a stack Spring, Kafka Streams, Apache Camel,  ActiveMQ entre outras tecnologias; </p>
+- <p style='text-align: justify;'> Análise e desenvolvimento de microsserviços de integrações de sistemas, dados e análise de dados e APIs utilizando a stack Spring, Spring Integration, Kafka Streams, Apache Camel,  ActiveMQ entre outras tecnologias; </p>
 - <p style='text-align: justify;'> Participação em decisões arquiteturais de serviços de integrações; </p>
 - <p style='text-align: justify;'> Práticas de desenvolvimento ágil com Scrum, XP e Kanban. </p>
 
