@@ -33,7 +33,7 @@ Pablo Rezende Silva
 #### AfferoLab
 **Analista de Sistemas Pleno** - `Agosto 2015 à Março 2018`
 
-- <p style='text-align: justify;'> Criação de arquitetura, desenvolvimento, manutenção de integrações de Sistemas, APIs,  mensagerias utilizando microsservices, Spring Integration, Stack Spring Cloud/NetFlix, Docker,  Kubernetes, MongoDB, PostgreSQL, Redis, RabbitMQ, atuando na manutenção do ambiente de homologação e produção na plataforma Cloud Amazon Web services; </p>
+- <p style='text-align: justify;'> Criação de arquitetura, desenvolvimento, manutenção de integrações de Sistemas, APIs,  mensagerias utilizando microsserviços, Spring Integration, Stack Spring Cloud/NetFlix, Docker,  Kubernetes, MongoDB, PostgreSQL, Redis, RabbitMQ, atuando na manutenção do ambiente de homologação e produção na plataforma Cloud Amazon Web services; </p>
 - <p style='text-align: justify;'> Desenvolvimento de Interface administrativa de integrações com ReactJS, NodeJS, GraphQL, MongoDB; </p>
 - <p style='text-align: justify;'> Desenvolvimento, manutenção e migração de integrações de sistemas entre clientes e sistemas internos, utilizando Apache Camel, atuando na manutenção do ambiente na plataforma de integração JBoss Fuse; </p>
 - <p style='text-align: justify;'> Atuação no desenvolvimento, migração e manutenção de sistema de LMS Social utilizando  tecnologias como AngularJS, Spring Boot, Spring Integration, Spring Batch, Security, Data, ElasticSearch, JSF, JBoss, Seam, SQL Server, Gradle, APIs e serviços AWS; </p>
