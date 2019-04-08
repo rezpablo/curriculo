@@ -16,7 +16,7 @@ Pablo Rezende Silva
 ### Experiências Profissionais:
 
 #### CAEd - Centro de Políticas Públicas e Avaliação da Educação
-** Arquiteto de Sistemas** - `Setembro 2018 até o período atual`
+**Arquiteto de Sistemas** - `Setembro 2018 até o período atual`
 
 - <p style='text-align: justify;'> Automação de processos de CI/CD e gerenciamento de configurações de orquestração de serviços Docker; </p>
 - <p style='text-align: justify;'> Modelagem e desenvolvimento de microsserviços de integrações de sistemas, APIs, fluxos de dados, análise de dados  utilizando Stack Spring Cloud, Spring Integration, Kafka Streams, Golang,  FnProject, Redis, Elasticsearch,  MongoDB, SQLServer entre outras tecnologias; </p>
@@ -24,7 +24,7 @@ Pablo Rezende Silva
 - <p style='text-align: justify;'> Code review e gestão do controle de versionamento; </p>
 - <p style='text-align: justify;'> Práticas de desenvolvimento ágil com Scrum, XP e Kanban. </p>
 
-** Analista de Sistemas Sênior** - `Março 2018 à Agosto 2018`
+**Analista de Sistemas Sênior** - `Março 2018 à Agosto 2018`
 
 - <p style='text-align: justify;'> Desenvolvimento de microsserviços de integrações de sistemas e análise de dados e APIs utilizando a stack Spring, Kafka Streams, Apache Camel,  ActiveMQ entre outras tecnologias; </p>
 - <p style='text-align: justify;'> Participação em decisões arquiteturais de serviços de integrações; </p>
@@ -40,7 +40,7 @@ Pablo Rezende Silva
 - <p style='text-align: justify;'> Participação em tomadas de decisões de arquitetura, code review, construção de componentes e microsserviços de Integrações e mensagerias, construção do Dockerfiles e de ambiente de CI/CD. </p>
 
 #### Stefanini
-** Analista de Sistemas Júnior ** - `Agosto 2014 à Julho 2015`
+**Analista de Sistemas Júnior ** - `Agosto 2014 à Julho 2015`
 
 - <p style='text-align: justify;'> Desenvolvimento de sistema de mensageria e integração de sistemas da área previdênciária utilizando SOAP, WildFly, CDI, HornetQueue, atuando no desenvolvimento e na configuração do ambiente de homologação e produção; </p>
 - <p style='text-align: justify;'> Desenvolvimento de sistemas utilizando tecnologias como com Jboss Seam, RichFaces, SpringBoot, AngularJS.  </p>
@@ -50,7 +50,7 @@ Pablo Rezende Silva
 - <p style='text-align: justify;'> Desenvolvimento e manutenção de sistema de gestão de conteúdo web com Struts, JSP e Java EE; </div>
 
 #### Exército Brasileiro – 4º Grupo de Artilharia de Campanha.
-** 3º Sargento ** - `Março 2006 à Fevereiro 2014`
+**3º Sargento ** - `Março 2006 à Fevereiro 2014`
 
 - <p style='text-align: justify;'> Atuação em área administrativa de gestão de pessoal; </p>
 - <p style='text-align: justify;'> Administração de sistemas Linux, suporte a usuário, configuração e manutenção de redes;</p>
