@@ -16,7 +16,7 @@ Pablo Rezende Silva
 ### Experiências Profissionais:
 
 #### CAEd - Centro de Políticas Públicas e Avaliação da Educação
-**Arquiteto de Sistemas** - `Setembro 2018 até o período atual`
+**Arquiteto de Sistemas de Integração** - `Setembro 2018 até o período atual`
 
 - <p style='text-align: justify;'> Automação de processos de CI/CD e gerenciamento de configurações de orquestração de serviços Docker; </p>
 - <p style='text-align: justify;'> Modelagem e desenvolvimento de microsserviços de integrações de sistemas, APIs, fluxos de dados, análise de dados  utilizando Stack Spring Cloud, Spring Integration, Kafka Streams, Golang,  FnProject, Redis, Elasticsearch,  MongoDB, SQLServer entre outras tecnologias; </p>
