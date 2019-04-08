@@ -31,7 +31,7 @@ Pablo Rezende Silva
 - <p style='text-align: justify;'> Práticas de desenvolvimento ágil com Scrum, XP e Kanban. </p>
 
 #### AfferoLab
-**Analista de Sistemas Pleno ** - `Agosto 2015 à Março 2018`
+**Analista de Sistemas Pleno** - `Agosto 2015 à Março 2018`
 
 - <p style='text-align: justify;'> Criação de arquitetura, desenvolvimento, manutenção de integrações de Sistemas, APIs,  mensagerias utilizando microsservices, Spring Integration, Stack Spring Cloud/NetFlix, Docker,  Kubernetes, MongoDB, PostgreSQL, Redis, RabbitMQ, atuando na manutenção do ambiente de homologação e produção na plataforma Cloud Amazon Web services; </p>
 - <p style='text-align: justify;'> Desenvolvimento de Interface administrativa de integrações com ReactJS, NodeJS, GraphQL, MongoDB; </p>
