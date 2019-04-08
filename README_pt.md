@@ -10,7 +10,7 @@ Pablo Rezende Silva
 ---
 ### Perfil Técnico  e Profissional: 
 
-- <p style='text-align: justify;'>Arquiteto, líder técnico, desenvolvedor Java com conhecimento em Javascript, Golang,  práticas e ferramentas da cultura DevOps, CI/CD e TDD. Conhecimento e experiência em integração de sistemas, mensageria, APIs, Stack Spring e conhecimentos sólidos em Enterprise Integration Patterns (EIPs), Design Patterns, boas práticas de desenvolvimento, microservices e servless. </p>
+- <p style='text-align: justify;'>Arquiteto, líder técnico e desenvolvedor Java com conhecimento em Javascript, Golang,  práticas e ferramentas da cultura DevOps, CI/CD e TDD. Conhecimento e experiência em integração de sistemas, mensageria, APIs, Stack Spring e conhecimentos sólidos em Enterprise Integration Patterns (EIPs), Design Patterns, boas práticas de desenvolvimento, microservices e servless. </p>
 
 ---
 ### Experiências Profissionais:
