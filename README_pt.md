@@ -40,17 +40,17 @@ Pablo Rezende Silva
 - <p style='text-align: justify;'> Participação em tomadas de decisões de arquitetura, code review, construção de componentes e microsserviços de Integrações e mensagerias, construção do Dockerfiles e de ambiente de CI/CD. </p>
 
 #### Stefanini
-**Analista de Sistemas Júnior ** - `Agosto 2014 à Julho 2015`
+**Analista de Sistemas Júnior** - `Agosto 2014 à Julho 2015`
 
 - <p style='text-align: justify;'> Desenvolvimento de sistema de mensageria e integração de sistemas da área previdênciária utilizando SOAP, WildFly, CDI, HornetQueue, atuando no desenvolvimento e na configuração do ambiente de homologação e produção; </p>
 - <p style='text-align: justify;'> Desenvolvimento de sistemas utilizando tecnologias como com Jboss Seam, RichFaces, SpringBoot, AngularJS.  </p>
 
-** Estagiário de Desenvolvimento Java ** - `Setembro 2013 à Agosto 2014`
+**Estagiário de Desenvolvimento Java** - `Setembro 2013 à Agosto 2014`
 
 - <p style='text-align: justify;'> Desenvolvimento e manutenção de sistema de gestão de conteúdo web com Struts, JSP e Java EE; </div>
 
 #### Exército Brasileiro – 4º Grupo de Artilharia de Campanha.
-**3º Sargento ** - `Março 2006 à Fevereiro 2014`
+**3º Sargento** - `Março 2006 à Fevereiro 2014`
 
 - <p style='text-align: justify;'> Atuação em área administrativa de gestão de pessoal; </p>
 - <p style='text-align: justify;'> Administração de sistemas Linux, suporte a usuário, configuração e manutenção de redes;</p>
