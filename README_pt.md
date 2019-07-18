@@ -19,21 +19,20 @@ Pablo Rezende Silva
 **Arquiteto de Sistemas de Integração** - `Setembro 2018 até o período atual`
 
 - <p style='text-align: justify;'> Automação de processos de CI/CD e gerenciamento de configurações de orquestração de serviços Docker; </p>
-- <p style='text-align: justify;'> Modelagem e desenvolvimento de microsserviços de integrações de sistemas, APIs, fluxos de dados e análise de dados  utilizando Stack Spring Cloud, Spring Integration, Kafka Streams, Golang,  FnProject, Redis, Elasticsearch,  MongoDB, SQLServer entre outras tecnologias; </p>
+- <p style='text-align: justify;'> Modelagem e desenvolvimento de microsserviços de integrações de sistemas, APIs, fluxos de dados e análise de dados  utilizando Stack Spring Cloud, Spring Integration, Kafka Streams, Golang, Servless com  FnProject, gRPC, Redis, Elasticsearch,  MongoDB, SQLServer entre outras tecnologias; </p>
 - <p style='text-align: justify;'> Java Performance Tuning e configuração de serviços de monitoramento; </p>
 - <p style='text-align: justify;'> Code review e gestão do controle de versionamento; </p>
-- <p style='text-align: justify;'> Práticas de desenvolvimento ágil com Scrum, XP e Kanban. </p>
+- <p style='text-align: justify;'> Manutenção e desenvolvimento de  microsserviços com Spring Boot,  NodeJs e AngularJs; </p>
 
 **Analista de Sistemas Sênior** - `Março 2018 à Agosto 2018`
 
 - <p style='text-align: justify;'> Análise e desenvolvimento de microsserviços de integrações de sistemas, dados e análise de dados e APIs utilizando a stack Spring, Spring Integration, Kafka Streams, Apache Camel,  ActiveMQ entre outras tecnologias; </p>
 - <p style='text-align: justify;'> Participação em decisões arquiteturais de serviços de integrações; </p>
-- <p style='text-align: justify;'> Práticas de desenvolvimento ágil com Scrum, XP e Kanban. </p>
 
 #### AfferoLab
 **Analista de Sistemas Pleno** - `Agosto 2015 à Março 2018`
 
-- <p style='text-align: justify;'> Criação de arquitetura, desenvolvimento, manutenção de integrações de Sistemas, APIs,  mensagerias utilizando microsserviços, Spring Integration, Stack Spring Cloud/NetFlix, Docker,  Kubernetes, MongoDB, PostgreSQL, Redis, RabbitMQ, atuando na manutenção do ambiente de homologação e produção na plataforma Cloud Amazon Web services; </p>
+- <p style='text-align: justify;'> Criação de arquitetura, desenvolvimento, manutenção de integrações de Sistemas, APIs,  mensagerias utilizando microsserviços, Spring Integration, Stack Spring Cloud/NetFlix, Docker,  Kubernetes, MongoDB, PostgreSQL, Redis, RabbitMQ, atuando na manutenção de ambiente na plataforma Cloud Amazon Web services; </p>
 - <p style='text-align: justify;'> Desenvolvimento de Interface administrativa de integrações com ReactJS, NodeJS, GraphQL, MongoDB; </p>
 - <p style='text-align: justify;'> Desenvolvimento, manutenção e migração de integrações de sistemas entre clientes e sistemas internos, utilizando Apache Camel, atuando na manutenção do ambiente na plataforma de integração JBoss Fuse; </p>
 - <p style='text-align: justify;'> Atuação no desenvolvimento, migração e manutenção de sistema de LMS Social utilizando  tecnologias como AngularJS, Spring Boot, Spring Integration, Spring Batch, Security, Data, ElasticSearch, JSF, JBoss, Seam, SQL Server, Gradle, APIs e serviços AWS; </p>
