@@ -12,15 +12,23 @@ Pablo Rezende Silva
 
 ### Profile
 
-<p style='margin-left:3%' align='justify'> Software architect, full stack developer and technical leader . I am used to working with programming languages such as Java, Javascript, and GoLang. I am also familiar with the DevOps culture, practices and tools and with environments automation, agile development, CI/CD and TDD, SOA architecture, messaging, APIs, Stack Spring, AngularJS, Angular 2++, ReactJS, and many other technologies... </p>
+<p style='margin-left:3%' align='justify'> Software architect, full stack developer and technical leader. I am used to working with programming languages such as Java, Javascript, and GoLang. I am also familiar with the DevOps culture, practices and tools and with environments automation, agile development, CI/CD and TDD, SOA architecture, messaging event sourcing, APIs and many other technologies... </p>
 <p style='margin-left:3%' align='justify'> I also master Design Patterns, and best practices for designing and coding.</p>
 
 ---
 ### Employment History:
 
+#### Mobicare
+
+**Senior Software Developer** - `November 2019 - Now`
+
+<p style='text-align: justify;'> Technical leader, coordinator, architecture and project development in the area of WIFI connectivity, data processing and analysis, and programmatic advertising platform; </p>
+<p style='text-align: justify;'> Participation in definitions, development and implementation of automated publishing processes, infrastructure and services monitoring, real-time data analysis; </p>
+<p style='text-align: justify;'> Expertise in infrastructure and multicloud migration projects, involving various services and tools such as AWS, Embratel Cloud, Oi Smart Cloud, Google Cloud, Terraform, Ansible, Kubernetes... </p>
+
 #### CAEd/UFJF - Centro de Políticas Públicas e Avaliação da Educação
 
-**Software Architect** - `September 2018 - Now`
+**Software Architect** - `September 2018 - November 2019`
 
 <p style='margin-left:3%' align='justify'> CI/CD processes automation, building Dockerfiles and configuring Docker orchestration services. </p>
 <p style='margin-left:3%' align='justify'> Development of microservices and serverless architecture for system integration, data flows and data analysis using the Spring stack, Spring Cloud, Spring Integration, Kafka Streams, Apache Camel, GoLang, MongoDB, SQLServer, Redis, Elasticsearch and FnProject. </p>
